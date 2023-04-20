@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.general{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    width: 800px;
+    
+    
+    
+}
+
+
+
+.header-general{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#firstOption{
+    margin-left: 20px;
+    
+}
+
+#secondOption{
+    margin-right: 20px;
+    
+}
+
+.content-general{
+    margin-bottom: 30px;
+}
+#amount{
+    text-align: center;
+}
+#result{
+    text-align: center;
+}
