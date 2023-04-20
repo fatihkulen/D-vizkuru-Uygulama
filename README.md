@@ -1,2 +1,2 @@
-# Dovizkuru-Uygulama
+# Dövizkuru-Uygulama
 Döviz kuru çevirici
